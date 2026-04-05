@@ -1,5 +1,5 @@
 course_name = "能动电气类跨专业课程"
-course_code = "Cross-Science"
+course_code = "Cross-ENER"
 repo_type = "multi-project"
 description = "本仓库包含机器人与先进制造学院开设的能源动力类和电气类跨专业课程。"
 
