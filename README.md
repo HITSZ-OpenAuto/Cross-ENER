@@ -1,4 +1,4 @@
-# Cross-Science - 能动电气类跨专业课程
+# Cross-ENER - 能动电气类跨专业课程
 <!-- TOML-META: repo_type="multi-project" -->
 
 本仓库包含机器人与先进制造学院开设的能源动力类和电气类跨专业课程。
