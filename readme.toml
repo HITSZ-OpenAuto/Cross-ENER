@@ -84,4 +84,3 @@ content = """
 一开始说这门课给分比较低，但是我作为一个两三个小时完成大小作业加考勤没缺过的人来说，分数还是挺高的好像，比我不少考试课分数都高（悲），所以非常推荐选，最好能和舍友一起，这样考勤问题也能大大解决。
 """
 author = { name = "SpeechlessPanda", link = "https://github.com/SpeechlessPanda", date = "2026-01" }
-
