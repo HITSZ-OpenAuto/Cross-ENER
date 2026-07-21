@@ -84,3 +84,17 @@ content = """
 一开始说这门课给分比较低，但是我作为一个两三个小时完成大小作业加考勤没缺过的人来说，分数还是挺高的好像，比我不少考试课分数都高（悲），所以非常推荐选，最好能和舍友一起，这样考勤问题也能大大解决。
 """
 author = { name = "SpeechlessPanda", link = "https://github.com/SpeechlessPanda", date = "2026-01" }
+
+[[courses]]
+name = "等离子体技术在半导体制造中的应用"
+
+[[courses.sections]]
+title = "课程概况"
+
+[[courses.sections.items]]
+content = """
+完全无考勤，但是老师会大致记住去的人的样子，最后频繁去上课的人分数会稍微高一些
+
+无实验无作业，只有最后一周的一个 pre 作为评分的唯一标准，演讲内容只要跟等离子体和半导体相关即可，笔者爽讲 10 分钟 TSM，最后得分很高，好课强推
+"""
+author = { name = "Cecilia", link = "https://github.com/mircecilia/", date = "2026-07" }

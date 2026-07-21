@@ -71,6 +71,7 @@
     > 文 / [SpeechlessPanda](https://github.com/SpeechlessPanda)，2026-01
 
 ## 等离子体技术在半导体制造中的应用
+<!-- TOML-COURSE: code="" name="等离子体技术在半导体制造中的应用" -->
 
 ### 课程概况
 
@@ -78,4 +79,4 @@
 
 无实验无作业，只有最后一周的一个 pre 作为评分的唯一标准，演讲内容只要跟等离子体和半导体相关即可，笔者爽讲 10 分钟 TSM，最后得分很高，好课强推
 
-    > 文 / [Cecilia](https://github.com/mircecilia/)，2026-07
+> 文 / [Cecilia](https://github.com/mircecilia/)，2026-07
